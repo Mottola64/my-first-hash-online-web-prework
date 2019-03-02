@@ -1,5 +1,5 @@
 def my_hash
-my_hash = {"teams" => "mets", "city" => "new york"}
+your_hash = {"teams" => "mets", "city" => "new york"}
 end
 
 
